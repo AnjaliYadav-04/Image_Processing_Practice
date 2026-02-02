@@ -52,4 +52,4 @@ Run Practical_1A.ipynb and Practical_1B.ipynb to explore image processing exerci
 ---
 
 ## Author
-Anjali Yadav – GitHub Profile
+Anjali Yadav – [GitHub Profile](https://github.com/AnjaliYadav-04)
