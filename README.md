@@ -17,6 +17,21 @@ This repository contains practice exercises for **Image Processing** using Pytho
 - Applying filters and transformations.
 - Understanding image histograms and adjustments.
 
+### 3. 3A_Image_Enhancement_in_Spatial_Domain_Practice.ipynb
+- Introduction to image enhancement in the spatial domain.
+- Applying techniques such as contrast adjustment, brightness modification, and negative transformation to improve image quality.
+- Understanding how pixel intensity values affect image appearance using skimage and matplotlib.
+
+### 4. 3B_PlottingHistogram_and_histogramEqualization.ipynb
+- Understanding image histograms and their importance in image processing.
+- Plotting histograms to analyze the distribution of pixel intensity values in an image.
+- Applying histogram equalization to enhance contrast and improve image visibility.
+
+### 5. 3C_Smoothing_and_Sharpening_Filters.ipynb
+- Introduction to image filtering techniques for noise reduction and edge enhancement.
+- Applying smoothing filters such as mean and Gaussian filters to remove noise.
+- Using sharpening filters like Laplacian and high-pass filters to highlight edges and details in images.
+
 ---
 
 ## Files
